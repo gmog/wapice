@@ -8,3 +8,6 @@ This is more.
 =======
 This change was made on the browser.
 >>>>>>> origin/master
+
+
+This is done on the local repository.
